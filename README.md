@@ -4,6 +4,7 @@ Hi there 👋 I'm Chanuka Abeysinghe
 🎯 Current Focus: SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
 
 🏅 Certifications
+
 ISC2 Certified in Cybersecurity (CC)
 
 Cisco Ethical Hacker
