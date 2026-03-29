@@ -22,11 +22,16 @@ Security automation and scripting with Bash & Python.
 Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
 
 🛠️ Skills & Tool Proficiency
+
 Defensive Security & Cloud:
 
-Cloud & SIEM: Microsoft Azure, Microsoft Sentinel
+Cloud & SIEM: 
 
-Blue Team: Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
+Microsoft Azure, Microsoft Sentinel
+
+Blue Team: 
+
+Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
 
 Scripting: Bash, Python
 
@@ -39,7 +44,8 @@ Tools: Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
 Techniques: Subdomain enumeration, URL & endpoint discovery
 
 🚀 Projects
-🛡️ Azure SSH Honeypot Detection System Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment.
+
+🛡️ Azure SSH Honeypot Detection System Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment. (Pinned Repository)
 
 🔍 Recon Scanner (Pinned Repository)
 Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery. pinned repository)
