@@ -1,31 +1,43 @@
-## Hi there 👋 I'm Chanuka Abeysinghe
+Hi there 👋 I'm Chanuka Abeysinghe
+🎓 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
 
-🎓 I'm a Computer Science undergraduate majoring in Cyber Security  
-🏫 Studying in Edith Cowan University Sri Lanka  
-🎯 Interested in Bug Bounty, Web Security, and Blue Team fundamentals
+🎯 Current Focus: SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
 
-### What I’m working on
-- Bug bounty (VDP programs)
-- Web security labs (PortSwigger, real-world recon)
-- Security automation with Bash & Python
-- Valuable certs to further help my career
+🏅 Certifications
+ISC2 Certified in Cybersecurity (CC)
 
-### Skills & Tool proficiency
-- Web security testing (OWASP Top 10 basics)
-- Subdomain enumeration (passive/active)
-- URL & endpoint discovery
-- Nmap, httpx, nuclei, amass, subfinder, nikto...
-- Bash and Python scripting
-- Burp Suite/OWASP ZAP
+Cisco Ethical Hacker
 
-### Projects
-- 🔍 **Recon Scanner** – Automated bug bounty recon tool  
-  (see pinned repository)
+🔭 What I’m working on
+Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
 
-### Currently learning
-- AI/LLM Bugs such as Prompt injections and sensitive disclosure...
-- OWASP Top 10
-- Further Bug bounty techniques and vulnerabilities
-- SOC & detection fundamentals
+Cloud Security monitoring and threat hunting within Microsoft Azure.
+
+Security automation and scripting with Bash & Python.
+
+Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
+
+🛠️ Skills & Tool Proficiency
+Defensive Security & Cloud:
+
+Cloud & SIEM: Microsoft Azure, Microsoft Sentinel
+
+Blue Team: Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
+
+Scripting: Bash, Python
+
+Offensive Security & Recon (Past & Ongoing):
+
+Testing: Web security testing (OWASP Top 10), Bug Bounty (VDP programs)
+
+Tools: Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
+
+Techniques: Subdomain enumeration, URL & endpoint discovery
+
+🚀 Projects
+🛡️ Azure SSH Honeypot Detection System Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment.
+
+🔍 Recon Scanner (Pinned Repository)
+Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery. pinned repository)
 
 📫 Reach me on GitHub
