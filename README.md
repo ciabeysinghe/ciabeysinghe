@@ -1,7 +1,9 @@
 Hi there 👋 I'm Chanuka Abeysinghe
 🎓 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
 
-🎯 Current Focus: SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
+🎯 Current Focus: 
+
+SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
 
 🏅 Certifications
 
@@ -10,6 +12,7 @@ ISC2 Certified in Cybersecurity (CC)
 Cisco Ethical Hacker
 
 🔭 What I’m working on
+
 Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
 
 Cloud Security monitoring and threat hunting within Microsoft Azure.
