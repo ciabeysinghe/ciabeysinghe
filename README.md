@@ -26,11 +26,9 @@ Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclos
 Defensive Security & Cloud:
 
 Cloud & SIEM: 
-
 Microsoft Azure, Microsoft Sentinel
 
 Blue Team: 
-
 Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
 
 Scripting: Bash, Python
