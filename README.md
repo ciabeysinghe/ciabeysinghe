@@ -65,10 +65,10 @@
 ### `root@sec-ops-term:~# ls -la /opt/projects/`
 
 #### **[🛡️ Azure SSH Honeypot Detection System](https://github.com/YOUR_USERNAME/YOUR_REPO)** *(Pinned Repository)*
-> **Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment.**
+> **Engineered a secure cloud lab in Microsoft Azure to monitor real-world threat actor behavior. Deployed vulnerable virtual machines acting as SSH honeypots and utilized Microsoft Sentinel (SIEM) to ingest security logs. Created custom KQL (Kusto Query Language) queries to parse Windows Event Logs, extract attacker geolocation data, and map global brute-force campaigns in real-time. Demonstrated practical skills in incident response, alert triaging, and cloud security monitoring.**
 
 #### **[🔍 Recon Scanner](https://github.com/YOUR_USERNAME/YOUR_REPO)** *(Pinned Repository)*
-> **Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery.**
+> **Developed an automated Bash-based reconnaissance pipeline designed to accelerate the initial phases of bug bounty hunting and penetration testing. The script chains together industry-standard tools (`httpx`, `nuclei`, `amass`, and `subfinder`) to systematically enumerate subdomains, probe for live web servers, and perform targeted vulnerability scanning. Built to minimize manual effort and increase the efficiency of discovering exposed assets across large target scopes.**
 
 ---
 
