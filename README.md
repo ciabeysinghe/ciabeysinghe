@@ -1,51 +1,69 @@
-Hi there 👋 I'm Chanuka Abeysinghe
-🎓 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
+<div align="center">
 
-🎯 Current Focus: 
+# 👨‍💻 Chanuka Isuru Abeysinghe
+### ⚡ Cybersecurity Undergraduate @ ECU Sri Lanka
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=SOC+Analyst+in+Training;Blue+Teamer+|+Cloud+Security;Bug+Bounty+Hunter;Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
 
-SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
+---
 
-🏅 Certifications
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![](https://img.shields.io/badge/HackerOne-0073B1?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/YOUR_USERNAME)
 
-ISC2 Certified in Cybersecurity (CC)
+</div>
 
-Cisco Ethical Hacker
+## 🎯 Current Focus
+I am a **2nd-Year Computer Science Undergraduate** at **Edith Cowan University (ECU)**. I leverage my background in **Bug Bounty** and **Web Security** to understand offensive tactics, allowing me to build more robust defenses in the SOC and Cloud environments.
 
-🔭 What I’m working on
+* **Defensive:** SOC Operations, Blue Teaming, and Detection Engineering.
+* **Cloud:** Securing Microsoft Azure environments.
+* **Research:** AI/LLM vulnerabilities (Prompt Injections & Data Disclosure).
 
-Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
+---
 
-Cloud Security monitoring and threat hunting within Microsoft Azure.
+## 🏅 Certifications
+<p align="left">
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-success?style=flat-square&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-blue?style=flat-square&logo=cisco&logoColor=white" />
+</p>
 
-Security automation and scripting with Bash & Python.
+---
 
-Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
+## 🛠️ Tech Stack & Arsenal
 
-🛠️ Skills & Tool Proficiency
+### 🛡️ Defensive & Cloud
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Defensive Security & Cloud:
+### ⚔️ Offensive & Recon
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-333333?style=for-the-badge)
 
-Cloud & SIEM: 
-Microsoft Azure, Microsoft Sentinel
+---
 
-Blue Team: 
-Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
+## 🚀 Featured Projects
 
-Scripting: Bash, Python
+### [🛡️ Azure SSH Honeypot Detection System](https://github.com/YOUR_USERNAME/YOUR_REPO)
+> Deployed an SSH honeypot and configured **Microsoft Sentinel** to detect, log, and analyze brute-force login attempts in a live cloud environment. Includes a live geo-map of attackers.
 
-Offensive Security & Recon (Past & Ongoing):
+### [🔍 Recon Scanner](https://github.com/YOUR_USERNAME/YOUR_REPO)
+> An automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery using `httpx`, `nuclei`, and `amass`.
 
-Testing: Web security testing (OWASP Top 10), Bug Bounty (VDP programs)
+---
 
-Tools: Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Chanuka's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</div>
 
-Techniques: Subdomain enumeration, URL & endpoint discovery
+---
 
-🚀 Projects
-
-🛡️ Azure SSH Honeypot Detection System Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment. (Pinned Repository)
-
-🔍 Recon Scanner (Pinned Repository)
-Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery. pinned repository)
-
-📫 Reach me on GitHub
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff41&style=flat" alt="Views" />
+</div>
