@@ -1,5 +1,7 @@
 <div align="center">
 
+<code>root@sec-ops-term:~# ./initialize_profile.sh</code>
+
 # 👨‍💻 Chanuka Isuru Abeysinghe
 ### ⚡ Cybersecurity Undergraduate @ ECU Sri Lanka
   
@@ -12,16 +14,83 @@
 
 </div>
 
-## 🎯 Current Focus
+<br>
+
+### `root@sec-ops-term:~# whoami`
+> **2nd-Year Computer Science Undergraduate** majoring in Cyber Security at **Edith Cowan University (ECU)**. 
+> I leverage my background in **Bug Bounty** and **Web Security** to understand offensive tactics and build more robust defenses.
+
+🔹 **Defensive:** SOC Operations, Blue Teaming, and Detection Engineering. <br>
+🔹 **Cloud:** Securing Microsoft Azure environments. <br>
+🔹 **Research:** AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
+
+<br>
+
+### `root@sec-ops-term:~# cat /etc/certifications`
+<p align="left">
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-000000?style=for-the-badge&logo=isc2&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-000000?style=for-the-badge&logo=cisco&logoColor=0099FF" />
+</p>
+
+<br>
+
+### `root@sec-ops-term:~# cat skills.yaml`
 
 ```yaml
-Profile:
-  Role: "2nd-Year Computer Science Undergraduate"
-  Major: "Cyber Security"
-  University: "Edith Cowan University (ECU)"
-  Approach: "Leveraging offensive Bug Bounty tactics to build robust cloud/SOC defenses."
+# 🛡️ DEFENSIVE SECURITY & CLOUD
+Cloud_and_SIEM: 
+  - "Microsoft Azure"
+  - "Microsoft Sentinel"
+Blue_Team_Ops:
+  - "Log Analysis"
+  - "SSH Honeypot Deployment"
+  - "Threat Detection"
+  - "SOC Fundamentals"
+Scripting:
+  - "Bash"
+  - "Python"
 
-Specializations:
-  Defensive: "SOC Operations, Blue Teaming, Detection Engineering"
-  Cloud_Security: "Microsoft Azure Environments"
-  Research: "AI/LLM Vulnerabilities (Prompt Injections, Data Disclosure)"
+# ⚔️ OFFENSIVE SECURITY & RECON
+Web_Testing: 
+  - "OWASP Top 10"
+  - "Bug Bounty (VDPs)"
+Hacking_Tools: 
+  - "Burp Suite"
+  - "OWASP ZAP"
+  - "Nmap"
+  - "Metasploit"
+Recon_Arsenal:
+  - "httpx"
+  - "nuclei"
+  - "amass"
+  - "subfinder"
+```
+
+<br>
+
+### `root@sec-ops-term:~# cat top_languages.txt`
+<p align="left">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/KQL-000000?style=for-the-badge&logo=microsoft&logoColor=0099FF" />
+</p>
+
+<br>
+
+### `root@sec-ops-term:~# ls -la /opt/projects/`
+
+#### [🛡️ Azure SSH Honeypot Detection System](https://github.com/YOUR_USERNAME/YOUR_REPO) 📌
+`[Microsoft Sentinel]` `[Azure]` `[KQL]`
+> Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment.
+
+#### [🔍 Recon Scanner](https://github.com/YOUR_USERNAME/YOUR_REPO) 📌
+`[Bash]` `[httpx]` `[nuclei]` `[amass]`
+> Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery.
+
+---
+
+<div align="center">
+  <code>root@sec-ops-term:~# exit</code><br><br>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0099FF&labelColor=000000&style=flat" alt="Views" />
+</div>
