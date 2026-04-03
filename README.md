@@ -7,18 +7,39 @@
 
 ---
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
-[![](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
-[![](https://img.shields.io/badge/HackerOne-0073B1?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/YOUR_USERNAME)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME) 
+[![](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
 </div>
 
 ## 🎯 Current Focus
-I am a **2nd-Year Computer Science Undergraduate** at **Edith Cowan University (ECU)**. I leverage my background in **Bug Bounty** and **Web Security** to understand offensive tactics, allowing me to build more robust defenses in the SOC and Cloud environments.
+I am a **2nd-Year Computer Science Undergraduate** majoring in Cyber Security at **Edith Cowan University (ECU)**. I leverage my background in **Bug Bounty** and **Web Security** to understand offensive tactics and build more robust defenses.
 
 * **Defensive:** SOC Operations, Blue Teaming, and Detection Engineering.
 * **Cloud:** Securing Microsoft Azure environments.
-* **Research:** AI/LLM vulnerabilities (Prompt Injections & Data Disclosure).
+* **Research:** AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
+
+---
+
+## 💻 Top Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![KQL](https://img.shields.io/badge/KQL-0050EF?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 🛠️ Skills & Tool Proficiency
+
+### 🛡️ Defensive Security & Cloud:
+* **Cloud & SIEM:** Microsoft Azure, Microsoft Sentinel
+* **Blue Team:** Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
+* **Scripting:** Bash, Python
+
+### ⚔️ Offensive Security & Recon (Past & Ongoing):
+* **Testing:** Web security testing (OWASP Top 10), Bug Bounty (VDP programs)
+* **Tools:** Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
+* **Techniques:** Subdomain enumeration, URL & endpoint discovery
 
 ---
 
@@ -30,37 +51,13 @@ I am a **2nd-Year Computer Science Undergraduate** at **Edith Cowan University (
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🚀 Projects
 
-### 🛡️ Defensive & Cloud
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### [🛡️ Azure SSH Honeypot Detection System](https://github.com/YOUR_USERNAME/YOUR_REPO) *(Pinned Repository)*
+> Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment.
 
-### ⚔️ Offensive & Recon
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-333333?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-### [🛡️ Azure SSH Honeypot Detection System](https://github.com/YOUR_USERNAME/YOUR_REPO)
-> Deployed an SSH honeypot and configured **Microsoft Sentinel** to detect, log, and analyze brute-force login attempts in a live cloud environment. Includes a live geo-map of attackers.
-
-### [🔍 Recon Scanner](https://github.com/YOUR_USERNAME/YOUR_REPO)
-> An automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery using `httpx`, `nuclei`, and `amass`.
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Chanuka's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
+### [🔍 Recon Scanner](https://github.com/YOUR_USERNAME/YOUR_REPO) *(Pinned Repository)*
+> Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery.
 
 ---
 
