@@ -3,11 +3,12 @@
 <code>root@sec-ops-term:~# ./initialize_profile.sh</code>
 
 # **👨‍💻 Chanuka Isuru Abeysinghe**
-### **⚡ Cybersecurity Undergraduate @ ECU Sri Lanka**
+### **⚡ ISC2|CC  Cisco Ethical Hacker**
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=SOC+Analyst+in+Training;Blue+Teamer+|+Cloud+Security;Bug+Bounty+Hunter;Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=SOC+Analyst;Blue+Teamer+|+Cloud+Security;Bug+Bounty+Hunter;Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
 
-Hi there 👋 I'm Chanuka Abeysinghe 🎓 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
+<div align="center">
+Hi there 👋 I'm a 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
 
 🎯 Current Focus:
 
@@ -51,6 +52,6 @@ Techniques: Subdomain enumeration, URL & endpoint discovery
 
 🛡️ Azure SSH Honeypot Detection System Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment. (Pinned Repository)
 
-🔍 Recon Scanner (Pinned Repository) Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery. pinned repository)
+🔍 Recon Scanner Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery. pinned repository)
 
 📫 Reach me on GitHub
