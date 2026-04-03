@@ -4,54 +4,41 @@
 
 # **👨‍💻 Chanuka Isuru Abeysinghe**
 ### **⚡ ISC2|CC  Cisco Ethical Hacker**
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=SOC+Analyst;Blue+Teamer+|+Cloud+Security;Bug+Bounty+Hunter;Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=Blue+Teamer+|+Cloud+Security|+SOC+Analyst;Bug+Bounty+Hunter+|+Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
 
-<div align="center">
+</div>
+
 Hi there 👋 I'm a 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
 
-🎯 Current Focus:
-
+**🎯 Current Focus:**
 SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
 
-🏅 Certifications
+**🏅 Certifications**
+* ISC2 Certified in Cybersecurity (CC)
+* Cisco Ethical Hacker
 
-ISC2 Certified in Cybersecurity (CC)
+**🔭 What I’m working on**
+* Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
+* Cloud Security monitoring and threat hunting within Microsoft Azure.
+* Security automation and scripting with Bash & Python.
+* Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
 
-Cisco Ethical Hacker
+**🛠️ Skills & Tool Proficiency**
 
-🔭 What I’m working on
+* **Defensive Security & Cloud:**
+  * **Cloud & SIEM:** Microsoft Azure, Microsoft Sentinel
+  * **Blue Team:** Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
+  * **Scripting:** Bash, Python
+* **Offensive Security & Recon (Past & Ongoing):**
+  * **Testing:** Web security testing (OWASP Top 10), Bug Bounty (VDP programs)
+  * **Tools:** Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
+  * **Techniques:** Subdomain enumeration, URL & endpoint discovery
 
-Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
+**🚀 Projects**
 
-Cloud Security monitoring and threat hunting within Microsoft Azure.
+* **🛡️ Azure SSH Honeypot Detection System** Architected a live, cloud-based honeypot environment by deliberately exposing a virtual machine to the public internet. Configured Microsoft Sentinel (SIEM) to ingest security logs and detect brute-force login attempts. Integrated a geolocation API to visualize attack origins in real-time on a global map, allowing for in-depth analysis of attacker behavior, targeted credentials, and brute-force methodologies. (Pinned Repository)
 
-Security automation and scripting with Bash & Python.
+* **🔍 Automated Recon Scanner** Developed a comprehensive bug bounty reconnaissance tool utilizing Bash and Python to streamline the early stages of penetration testing. The tool automates subdomain enumeration and endpoint discovery by efficiently chaining together industry-standard utilities like Amass, Subfinder, httpx, and Nuclei, significantly reducing manual effort and rapidly mapping out potential attack surfaces. (Pinned Repository)
 
-Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
-
-🛠️ Skills & Tool Proficiency
-
-Defensive Security & Cloud:
-
-Cloud & SIEM: Microsoft Azure, Microsoft Sentinel
-
-Blue Team: Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
-
-Scripting: Bash, Python
-
-Offensive Security & Recon (Past & Ongoing):
-
-Testing: Web security testing (OWASP Top 10), Bug Bounty (VDP programs)
-
-Tools: Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
-
-Techniques: Subdomain enumeration, URL & endpoint discovery
-
-🚀 Projects
-
-🛡️ Azure SSH Honeypot Detection System Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment. (Pinned Repository)
-
-🔍 Recon Scanner Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery. pinned repository)
-
-📫 Reach me on GitHub
+📫 [Reach me on GitHub](#) ```
