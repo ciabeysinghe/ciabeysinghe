@@ -7,71 +7,50 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=SOC+Analyst+in+Training;Blue+Teamer+|+Cloud+Security;Bug+Bounty+Hunter;Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
 
----
+Hi there 👋 I'm Chanuka Abeysinghe 🎓 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
 
-[![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0099FF)](https://www.linkedin.com/in/YOUR_USERNAME) 
-[![](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=0099FF)](https://x.com/YOUR_USERNAME)
+🎯 Current Focus:
 
-</div>
+SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
 
-<br>
+🏅 Certifications
 
-### `root@sec-ops-term:~# whoami`
-> **I am a 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU). I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.**
+ISC2 Certified in Cybersecurity (CC)
 
-<br>
+Cisco Ethical Hacker
 
-### `root@sec-ops-term:~# cat /etc/certifications`
-<p align="left">
-<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-000000?style=for-the-badge&logo=isc2&logoColor=0099FF" />
-<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-000000?style=for-the-badge&logo=cisco&logoColor=0099FF" />
-</p>
+🔭 What I’m working on
 
-<br>
+Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
 
-### `root@sec-ops-term:~# tail -f /var/log/active_tasks.log`
-**🔭 What I’m working on right now:**
-* **Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).**
-* **Cloud Security monitoring and threat hunting within Microsoft Azure.**
-* **Security automation and scripting with Bash & Python.**
-* **Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).**
+Cloud Security monitoring and threat hunting within Microsoft Azure.
 
-<br>
+Security automation and scripting with Bash & Python.
 
-### `root@sec-ops-term:~# cat skills.txt`
+Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
 
-#### **🛡️ Defensive Security & Cloud:**
-* **Cloud & SIEM:** **Microsoft Azure, Microsoft Sentinel**
-* **Blue Team:** **Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals**
-* **Scripting:** **Bash, Python**
+🛠️ Skills & Tool Proficiency
 
-#### **⚔️ Offensive Security & Recon (Past & Ongoing):**
-* **Testing:** **Web security testing (OWASP Top 10), Bug Bounty (VDP programs)**
-* **Tools:** **Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder**
-* **Techniques:** **Subdomain enumeration, URL & endpoint discovery**
+Defensive Security & Cloud:
 
-<br>
+Cloud & SIEM: Microsoft Azure, Microsoft Sentinel
 
-### `root@sec-ops-term:~# cat top_languages.txt`
-<p align="left">
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=0099FF" />
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=0099FF" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=0099FF" />
-<img src="https://img.shields.io/badge/KQL-000000?style=for-the-badge&logo=microsoft&logoColor=0099FF" />
-</p>
+Blue Team: Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
 
-<br>
+Scripting: Bash, Python
 
-### `root@sec-ops-term:~# ls -la /opt/projects/`
+Offensive Security & Recon (Past & Ongoing):
 
-#### **[🛡️ Azure SSH Honeypot Detection System](https://github.com/YOUR_USERNAME/YOUR_REPO)** *(Pinned Repository)*
-> **Engineered a secure cloud lab in Microsoft Azure to monitor real-world threat actor behavior. Deployed vulnerable virtual machines acting as SSH honeypots and utilized Microsoft Sentinel (SIEM) to ingest security logs. Created custom KQL (Kusto Query Language) queries to parse Windows Event Logs, extract attacker geolocation data, and map global brute-force campaigns in real-time. Demonstrated practical skills in incident response, alert triaging, and cloud security monitoring.**
+Testing: Web security testing (OWASP Top 10), Bug Bounty (VDP programs)
 
-#### **[🔍 Recon Scanner](https://github.com/YOUR_USERNAME/YOUR_REPO)** *(Pinned Repository)*
-> **Developed an automated Bash-based reconnaissance pipeline designed to accelerate the initial phases of bug bounty hunting and penetration testing. The script chains together industry-standard tools (`httpx`, `nuclei`, `amass`, and `subfinder`) to systematically enumerate subdomains, probe for live web servers, and perform targeted vulnerability scanning. Built to minimize manual effort and increase the efficiency of discovering exposed assets across large target scopes.**
+Tools: Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
 
----
+Techniques: Subdomain enumeration, URL & endpoint discovery
 
-<div align="center">
-  <code>root@sec-ops-term:~# exit</code><br><br>
-</div>
+🚀 Projects
+
+🛡️ Azure SSH Honeypot Detection System Deployed an SSH honeypot and configured Microsoft Sentinel to detect, log, and analyze brute-force login attempts in a live cloud environment. (Pinned Repository)
+
+🔍 Recon Scanner (Pinned Repository) Automated bug bounty recon tool built to streamline subdomain enumeration and endpoint discovery. pinned repository)
+
+📫 Reach me on GitHub
