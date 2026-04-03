@@ -3,12 +3,12 @@
 # 👨‍💻 Chanuka Isuru Abeysinghe
 ### ⚡ Cybersecurity Undergraduate @ ECU Sri Lanka
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=SOC+Analyst+in+Training;Blue+Teamer+|+Cloud+Security;Bug+Bounty+Hunter;Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=SOC+Analyst+in+Training;Blue+Teamer+|+Cloud+Security;Bug+Bounty+Hunter;Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
 
 ---
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME) 
-[![](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0099FF)](https://www.linkedin.com/in/YOUR_USERNAME) 
+[![](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=0099FF)](https://x.com/YOUR_USERNAME)
 
 </div>
 
@@ -21,11 +21,11 @@ I am a **2nd-Year Computer Science Undergraduate** majoring in Cyber Security at
 
 ---
 
-## 💻 Top Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![KQL](https://img.shields.io/badge/KQL-0050EF?style=for-the-badge&logo=microsoft&logoColor=white)
+## 🏅 Certifications
+<p align="left">
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-000000?style=for-the-badge&logo=isc2&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-000000?style=for-the-badge&logo=cisco&logoColor=0099FF" />
+</p>
 
 ---
 
@@ -43,10 +43,12 @@ I am a **2nd-Year Computer Science Undergraduate** majoring in Cyber Security at
 
 ---
 
-## 🏅 Certifications
+## 💻 Top Languages
 <p align="left">
-<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-success?style=flat-square&logo=isc2&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-blue?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=0099FF" />
+<img src="https://img.shields.io/badge/KQL-000000?style=for-the-badge&logo=microsoft&logoColor=0099FF" />
 </p>
 
 ---
@@ -62,5 +64,5 @@ I am a **2nd-Year Computer Science Undergraduate** majoring in Cyber Security at
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff41&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0099FF&style=flat" alt="Views" />
 </div>
