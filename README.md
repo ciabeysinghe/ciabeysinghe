@@ -1,6 +1,5 @@
 <div align="center">
 
-<code>root@sec-ops-term:~# ./initialize_profile.sh</code>
 
 # **👨‍💻 Chanuka Isuru Abeysinghe**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=BlueTeaming+|+CloudSec|+SOC+Analyst;Python+|+Bash+|+Javascript+|+KQL+)](https://git.io/typing-svg)
