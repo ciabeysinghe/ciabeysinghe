@@ -5,7 +5,7 @@
 # **👨‍💻 Chanuka Isuru Abeysinghe**
 ### **⚡ ISC2|CC  Cisco Ethical Hacker**
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=Blue+Teaming+|+CloudSec|+SOC+Analyst;Python+|+Bash+|+JavaScript+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=Blue+Teaming+|+Cloud+Sec|+SOC+Analyst;Python+|+Bash+|+Javascript+)](https://git.io/typing-svg)
 
 </div>
 
