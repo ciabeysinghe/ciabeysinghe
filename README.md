@@ -5,7 +5,7 @@
 # **👨‍💻 Chanuka Isuru Abeysinghe**
 ### **⚡ ISC2|CC  Cisco Ethical Hacker**
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=Blue+Teamer+|+Cloud+Security|+SOC+Analyst;Bug+Bounty+Hunter+|+Automation+with+Python+%26+Bash)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099FF&width=435&lines=Blue+Team+|+Cloud+Sec|+SOC+Analyst;Bug+Bounty+|+Python+%26+Bash)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,4 +41,4 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 
 * **🔍 Automated Recon Scanner** Developed a comprehensive bug bounty reconnaissance tool utilizing Bash and Python to streamline the early stages of penetration testing. The tool automates subdomain enumeration and endpoint discovery by efficiently chaining together industry-standard utilities like Amass, Subfinder, httpx, and Nuclei, significantly reducing manual effort and rapidly mapping out potential attack surfaces. (Pinned Repository)
 
-📫 [Reach me on GitHub](#) ```
+📫 [Reach me on GitHub]
