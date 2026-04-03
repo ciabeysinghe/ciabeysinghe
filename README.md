@@ -1,7 +1,7 @@
 <div align="center">
 
 # **👨‍💻 Chanuka Isuru Abeysinghe**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=0099FF&width=435&lines=BlueTeaming+|+CloudSec|+SOC+Analyst;Python+|+Bash+|+Javascript+|+KQL+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=0099FF&width=435&lines=BlueTeaming+|+CloudSec|+SOC+Analyst;Python+|+Bash+|+Javascript+|+KQL+)](https://git.io/typing-svg)
 
 </div>
 
