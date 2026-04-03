@@ -74,5 +74,4 @@
 
 <div align="center">
   <code>root@sec-ops-term:~# exit</code><br><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0099FF&labelColor=000000&style=flat" alt="Views" />
 </div>
