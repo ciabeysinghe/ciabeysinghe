@@ -62,5 +62,4 @@ I am a **2nd-Year Computer Science Undergraduate** majoring in Cyber Security at
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff41&style=flat" alt="Views" />
 </div>
