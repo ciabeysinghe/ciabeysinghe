@@ -16,6 +16,7 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 * ISC2 Certified in Cybersecurity (CC)
 * Cisco Ethical Hacker
 * Foundations of Operationlizing in MITRE ATT&CK V13
+* MITRE ATT&CK Security Stack Mappings: Azure
   
 **🔭 What I’m working on**
 * Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
