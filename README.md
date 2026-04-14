@@ -42,4 +42,6 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 
 * **🔍 Automated Recon Scanner** Developed a comprehensive bug bounty reconnaissance tool utilizing Bash and Python to streamline the early stages of penetration testing. The tool automates subdomain enumeration and endpoint discovery by efficiently chaining together industry-standard utilities like Amass, Subfinder, httpx, and Nuclei, significantly reducing manual effort and rapidly mapping out potential attack surfaces. (Pinned Repository)
 
+* **⚙️ Automated SOC Triage Pipeline** Engineered an end-to-end Security Operations Center (SOC) pipeline deployed in Microsoft Azure to automate threat detection and incident triage. Configured Wazuh (SIEM) to ingest Windows endpoint telemetry and integrated Shuffle (SOAR) to dynamically parse JSON payloads, effectively filtering out routine OS noise. Automated the delivery of high-fidelity brute-force alerts to a Discord ChatOps dashboard, demonstrating real-world strategies for mitigating analyst alert fatigue. (Pinned Repository)
+
 📫 Reach me on LinkedIn or X
