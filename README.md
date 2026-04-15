@@ -18,6 +18,7 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 * Foundations of Operationlizing in MITRE ATT&CK V13
 * Application of ATT&CK Navigator
 * MITRE ATT&CK Security Stack Mappings: Azure
+* AZ-900 (Ongoing)
   
 **🔭 What I’m working on**
 * Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
