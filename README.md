@@ -19,6 +19,7 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 * Application of ATT&CK Navigator
 * MITRE ATT&CK Security Stack Mappings: Azure
 * AI Governance Certification by Securiti AI
+* Introduction to Google Security Operations: Unified SecOps
 * AZ-900 (Ongoing)
   
 **🔭 What I’m working on**
