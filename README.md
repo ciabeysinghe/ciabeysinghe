@@ -21,6 +21,7 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 * AI Governance Certification by Securiti AI
 * Introduction to Google Security Operations: Unified SecOps
 * Introduction to Google Security Operations (SIEM)
+* Introduction Google Security Operations (SOAR)
 * SC-200 (Ongoing)
   
 **🔭 What I’m working on**
