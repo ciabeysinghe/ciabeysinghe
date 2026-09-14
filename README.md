@@ -15,7 +15,7 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 **🏅 Certifications**
 * ISC2 Certified in Cybersecurity (CC)
 * Cisco Ethical Hacker
-* Foundations of Operationlizing in MITRE ATT&CK V13
+* Foundations of Operationalizing in MITRE ATT&CK V13
 * Application of ATT&CK Navigator
 * MITRE ATT&CK Security Stack Mappings: Azure
 * AI Governance Certification by Securiti AI
