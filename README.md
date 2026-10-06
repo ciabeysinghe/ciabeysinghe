@@ -13,6 +13,7 @@ Hi there 👋 I'm a 2nd-Year Computer Science Undergraduate majoring in Cyber Se
 SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
 
 **🏅 Certifications**
+* Microsoft Certified: Security Operations Analyst Associate (SC-200)
 * ISC2 Certified in Cybersecurity (CC)
 * Cisco Ethical Hacker
 * Foundations of Operationalizing in MITRE ATT&CK V13
@@ -22,7 +23,6 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 * Introduction to Google Security Operations: Unified SecOps
 * Introduction to Google Security Operations (SIEM)
 * Introduction Google Security Operations (SOAR)
-* SC-200 (Ongoing)
   
 **🔭 What I’m working on**
 * Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
