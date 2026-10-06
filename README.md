@@ -33,7 +33,7 @@ SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bu
 **🛠️ Skills & Tool Proficiency**
 
 * **Defensive Security & Cloud:**
-  * **Cloud & SIEM:** Microsoft Azure, Microsoft Sentinel
+  * **Cloud & SIEM:** Microsoft Azure, Microsoft Sentinel, KQL (Kusto Query Language) and Microsoft Defender XDR
   * **Blue Team:** Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
   * **Scripting:** Bash, Python
 * **Offensive Security & Recon (Past & Ongoing):**
