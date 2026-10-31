@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chanuka Isuru
+# Hi there! 👋 I'm Chanuka
 
 I'm a **2nd-Year Computer Science undergraduate majoring in Cyber Security at Edith Cowan University (ECU), Sri Lanka**, with a focus on **Security Operations (SOC), Blue Teaming, and Cloud Security**.
 
