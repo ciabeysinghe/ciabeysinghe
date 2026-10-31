@@ -1,52 +1,86 @@
-<div align="center">
- 
-# **👨‍💻 Chanuka Isuru Abeysinghe**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=825&pause=1000&color=0099FF&width=450&lines=+BlueTeaming+|+CloudSec+|+SOC+Analyst;+++++++Python+|+Bash+|+Javascript+|+KQL+&v=3)](https://git.io/typing-svg)
+# Hi there! 👋 I'm Chanuka Isuru
 
-</div>
+I'm a **2nd-Year Computer Science undergraduate majoring in Cyber Security at Edith Cowan University (ECU), Sri Lanka**, with a focus on **Security Operations (SOC), Blue Teaming, and Cloud Security**.
 
-</div>
+I'm **Microsoft SC-200 certified** and enjoy building hands-on security projects involving SIEM monitoring, threat detection, incident triage, and security automation.
 
-Hi there 👋 I'm a 2nd-Year Computer Science Undergraduate majoring in Cyber Security at Edith Cowan University (ECU) Sri Lanka.
+My goal is to develop practical defensive security skills and build a career in SOC operations and cloud security.
 
-**🎯 Current Focus:**
-SOC Operations, Blue Teaming, and Cloud Security. I leverage my background in Bug Bounty and Web Security to understand offensive tactics and build more robust defenses.
+## 🛡️ Featured Security Projects
 
-**🏅 Certifications**
-* Microsoft Certified: Security Operations Analyst Associate (SC-200)
-* ISC2 Certified in Cybersecurity (CC)
-* Cisco Ethical Hacker
-* Foundations of Operationalizing in MITRE ATT&CK V13
-* Application of ATT&CK Navigator
-* MITRE ATT&CK Security Stack Mappings: Azure
-* AI Governance Certification by Securiti AI
-* Introduction to Google Security Operations: Unified SecOps
-* Introduction to Google Security Operations (SIEM)
-* Introduction Google Security Operations (SOAR)
-  
-**🔭 What I’m working on**
-* Hands-on SOC operations, alert triaging, and detection engineering (including practical labs like myDFIR).
-* Cloud Security monitoring and threat hunting within Microsoft Azure.
-* Security automation and scripting with Bash & Python.
-* Studying AI/LLM vulnerabilities (e.g., Prompt Injections, sensitive data disclosure).
+### ⚙️ Automated SOC Triage Pipeline
+**Technologies:** Microsoft Azure, Wazuh, Shuffle (SOAR), Discord
 
-**🛠️ Skills & Tool Proficiency**
+- Built an Azure-hosted SOC monitoring pipeline using Wazuh to collect and analyze Windows endpoint security events.
+- Integrated Shuffle to process JSON alert payloads and filter routine system events.
+- Automated the forwarding of selected brute-force alerts to Discord for investigation and review.
+- Explored how SIEM and SOAR integration can support alert triage and reduce repetitive manual analysis.
 
-* **Defensive Security & Cloud:**
-  * **Cloud & SIEM:** Microsoft Azure, Microsoft Sentinel, KQL (Kusto Query Language), Microsoft Defender XDR
-  * **Blue Team:** Log analysis, SSH honeypot deployment, Threat Detection, SOC fundamentals
-  * **Scripting:** Bash, Python
-* **Offensive Security & Recon (Past & Ongoing):**
-  * **Testing:** Web security testing (OWASP Top 10), Bug Bounty (VDP programs)
-  * **Tools:** Burp Suite, OWASP ZAP, Nmap, Metasploit, httpx, nuclei, amass, subfinder
-  * **Techniques:** Subdomain enumeration, URL & endpoint discovery
+### 🌍 Azure SSH Honeypot & Threat Detection
+**Technologies:** Microsoft Azure, Microsoft Sentinel, KQL, Geolocation API
 
-**🚀 Projects**
+- Deployed an internet-facing SSH honeypot in Microsoft Azure to observe unauthorized login attempts.
+- Ingested security logs into Microsoft Sentinel and used KQL to investigate brute-force activity.
+- Integrated a geolocation API to visualize the geographic origins of inbound attacks.
+- Analyzed authentication attempts, targeted credentials, and attacker activity patterns.
 
-* **⚙️ Automated SOC Triage Pipeline**: Engineered an end-to-end Security Operations Center (SOC) pipeline deployed in Microsoft Azure to automate threat detection and incident triage. Configured Wazuh (SIEM) to ingest Windows endpoint telemetry and integrated Shuffle (SOAR) to dynamically parse JSON payloads, effectively filtering out routine OS noise. Automated the delivery of high-fidelity brute-force alerts to a Discord ChatOps dashboard, demonstrating real-world strategies for mitigating analyst alert fatigue. (Pinned Repository)
+### 🔍 Automated Reconnaissance Scanner
+**Technologies:** Bash, Python, Amass, Subfinder, httpx, Nuclei
 
-* **🛡️ Azure SSH Honeypot Detection System**: Architected a live, cloud-based honeypot environment by deliberately exposing a virtual machine to the public internet. Configured Microsoft Sentinel (SIEM) to ingest security logs and detect brute-force login attempts. Integrated a geolocation API to visualize attack origins in real-time on a global map, allowing for in-depth analysis of attacker behavior, targeted credentials, and brute-force methodologies. (Pinned Repository)
+- Developed a reconnaissance automation tool to streamline asset discovery and security testing workflows.
+- Chained multiple utilities to automate subdomain enumeration, endpoint discovery, and vulnerability scanning.
+- Used scripting to reduce repetitive manual steps and improve consistency in reconnaissance workflows.
 
-* **🔍 Automated Recon Scanner**: Developed a comprehensive bug bounty reconnaissance tool utilizing Bash and Python to streamline the early stages of penetration testing. The tool automates subdomain enumeration and endpoint discovery by efficiently chaining together industry-standard utilities like Amass, Subfinder, httpx, and Nuclei, significantly reducing manual effort and rapidly mapping out potential attack surfaces. (Pinned Repository)
+*Explore my pinned repositories for implementation details and project documentation.*
 
-📫 Reach me on LinkedIn or X
+## 🏅 Certifications
+
+- **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
+- **ISC2 Certified in Cybersecurity (CC)**
+- **Cisco Networking Academy – Ethical Hacker**
+- **Securiti AI – AI Governance Certification**
+
+### Additional Security Training
+
+**Google Security Operations**
+- Introduction to Google Security Operations: Unified SecOps
+- Introduction to Google Security Operations (SIEM)
+- Introduction to Google Security Operations (SOAR)
+
+**MITRE ATT&CK**
+- Foundations of Operationalizing MITRE ATT&CK v13
+- Application of ATT&CK Navigator
+- MITRE ATT&CK Security Stack Mappings: Azure
+
+## 🛠️ Technical Skills
+
+**Security Operations & Blue Team**
+- SIEM monitoring, security log analysis, alert triage
+- Threat detection, security event investigation
+- MITRE ATT&CK, SOC fundamentals
+
+**Cloud Security & Security Tools**
+- Microsoft Azure, Microsoft Sentinel, Microsoft Defender XDR
+- Wazuh, Shuffle (SOAR), KQL
+- Linux, networking fundamentals
+
+**Scripting & Automation**
+- Python, Bash
+- Security workflow automation
+- Reconnaissance and attack surface mapping
+
+**Security Research Tools**
+- Burp Suite, Nmap, httpx, Nuclei, Amass, Subfinder
+
+## 🔭 Currently Working On
+
+- Strengthening practical SOC investigation and incident response skills through hands-on labs and TryHackMe.
+- Developing detection and alert analysis skills using Microsoft Sentinel, KQL, and security event logs.
+- Exploring cloud security monitoring and defensive security automation.
+- Learning about AI/LLM security risks, including prompt injection and sensitive information disclosure.
+
+## 📫 Connect With Me
+
+I'm interested in connecting with cybersecurity professionals, SOC analysts, cloud security engineers, and others working in defensive security.
+
+**LinkedIn:** https://www.linkedin.com/in/ciabeysinghe/
